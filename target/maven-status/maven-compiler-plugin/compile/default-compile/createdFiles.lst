@@ -1,0 +1,7 @@
+br\comau\files\upload\service\FilesStorageService.class
+br\comau\files\upload\model\FileInfo.class
+br\comau\files\upload\message\ResponseMessage.class
+br\comau\files\upload\service\FilesStorageServiceImpl.class
+br\comau\files\upload\exception\FileUploadExceptionAdvice.class
+br\comau\files\upload\controller\FilesController.class
+br\comau\files\upload\SpringBootUploadFilesApplication.class
